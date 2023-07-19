@@ -1,0 +1,11 @@
+iter=10
+iter=sqrt(iter+1)
+iter=sqrt(iter+1)
+iter=0.2
+iter=2*iter*(1-iter)
+5/2
+5\2
+3e8
+abs(-5) 
+sin(0)
+tan(0)
