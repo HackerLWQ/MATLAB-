@@ -1,0 +1,1 @@
+lineseg = struct('endpoint',struct('x',2,'y',4),'endpoint2',struct('x',1,'y',6));
